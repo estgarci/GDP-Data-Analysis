@@ -1,6 +1,6 @@
 # GDP Data Analysis
 An exploratory data analysis of the Gross Domestic Product (GDP) on different countries.
-[a](/gdp_usa.ipynb)
+![Screenshot](/gdp_usa.jpeg)
 
 ## Purpose
 I was curious about GDP (Domestic Gross Product) of every country and its relationship with political parties. I wanted to start by analyzing Mexico and the U.S.
