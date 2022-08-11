@@ -1,5 +1,6 @@
 # GDP Data Analysis
 An exploratory data analysis of the Gross Domestic Product (GDP) on different countries.
+[a](/gdp_usa.ipynb)
 
 ## Purpose
 I was curious about GDP (Domestic Gross Product) of every country and its relationship with political parties. I wanted to start by analyzing Mexico and the U.S.
@@ -14,4 +15,4 @@ It is a fact that GDP on its own is NOT correlated with political parties but i 
 
 This project was a good way to learn more about data mining and analysis with python. 
 
-The data exploration process is hosted in a jupyter notebook [here](/gdp_clean.ipynb)
+The data exploration process is hosted in a [jupyter notebook](/gdp_clean.ipynb)
