@@ -14,4 +14,4 @@ I was curious about GDP (Domestic Gross Product) of every country and its relati
 
 This project was a good way to learn more about data mining and analysis with python. 
 
-The data exploration process is hosted in a [jupyter notebook](/gdp_clean.ipynb)
+The data exploration process can be found on this project's [jupyter notebook](/gdp_clean.ipynb)
