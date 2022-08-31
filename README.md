@@ -1,5 +1,5 @@
 # GDP Data Analysis
-An exploratory data analysis of the Gross Domestic Product (GDP) on different countries.
+An exploratory data analysis of the Gross Domestic Product (GDP) of different countries.
 ![Screenshot](/gdp_usa.jpeg)
 
 ## Purpose
